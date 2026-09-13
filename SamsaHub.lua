@@ -1,5 +1,4 @@
--- Загружаем интерфейс Rayfield
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu'))()
+local Rayfield = loadstring(game:HttpGet('https://githubusercontent.com'))()
 
 -- Инициализация окна
 local Window = Rayfield:CreateWindow({
